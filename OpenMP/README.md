@@ -1,6 +1,6 @@
 # Multiplicación de Matrices con OpenMP
 
-Este proyecto implementa la multiplicación de matrices cuadradas utilizando paralelización con OpenMP en lenguaje C. Es parte de una práctica académica para la clase de **Sistemas Operativos** en la **Pontificia Universidad Javeriana**.
+Este proyecto implementa la multiplicación de matrices cuadradas utilizando paralelización con OpenMP en lenguaje C. Es parte de una práctica académica para la clase de **Sistemas Operativos** en la **Pontificia Universidad Javeriana**. Se tiene como objetivo identificar conclusiones acerca de la implementación de OpenMP en este caso en concreto.
 
 ## Archivos
 
